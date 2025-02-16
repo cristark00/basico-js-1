@@ -30,7 +30,7 @@ const stringValue = '20'
 const numberValue = 10
 const booleanValue = true
 console.log('__________________')
-console.log(stringValue + stringValue)
+console.log(stringValue + stringValue) // concateno
 console.log(stringValue + numberValue)
 console.log(stringValue + booleanValue)
 
