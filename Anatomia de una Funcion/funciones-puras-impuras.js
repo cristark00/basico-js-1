@@ -42,4 +42,4 @@
         }
 
         const number = 5;
-        const finalResult = addTen(square(number))
+        const finalResult = addTen(square(number));

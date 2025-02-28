@@ -50,7 +50,7 @@ La función inner accede a las variables definidas en el ámbito de la función 
 
 
  */
-function outer(){
+function outer(name){
     let message = 'Hello , '
     function inner(name){
     console.log(message + ' ' + name)
