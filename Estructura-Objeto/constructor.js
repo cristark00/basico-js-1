@@ -75,3 +75,4 @@ Eficiencia: Las funciones constructoras evitan la repetición de código y permi
 Específicas: Al modificar el prototype, podemos añadir funcionalidades o propiedades que se apliquen globalmente a todas las instancias, manteniendo el código DRY (Don't Repeat Yourself).
 Flexibilidad: Podemos tanto modificar instancias específicas como influir sobre todas a través del prototipo, ofreciendo un gran margen de personalización y manejo eficiente de las propiedades.
 */
+

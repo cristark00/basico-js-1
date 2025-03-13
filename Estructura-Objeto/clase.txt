@@ -1,0 +1,11 @@
+JavaScript y POO
+JavaScript funciona con Objetos y prototipos
+y
+POO funciona con herencia
+Las clases van a generar un prototipo, el cual va a tener todas las propiedades y metos que se van a heredar
+en las instancias que tengamos de las clases principales.
+
+
+¿Qué son los prototipos y la herencia en JavaScript?
+
+Cuando hablamos de programación orientada a objetos en JavaScript, es crucial entender cómo funcionan los prototipos y la herencia. En este lenguaje, las funciones y las clases constructoras son las que generan la propiedad denominada prototipo. Este prototipo es esencial porque contiene los métodos y propiedades que construimos en las clases o funciones constructoras. De este modo, garantizamos que las instancias u otras clases que se extiendan de nuestra clase principal puedan acceder a esos métodos y propiedades.
